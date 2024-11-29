@@ -1,0 +1,13 @@
+    1  ssh-keygen -t ed_25519
+    2  ssh-keygen -t ed25519
+    3  git clone git@github.com:0ov3rl0rd/db2C.git
+    4  ls -l
+    5  cd db2C
+    6  ls -l
+    7  git commit -m "mi primer commi"
+    8  git config --global user.email "c.guerreirofrade@gmail.com"
+    9  git config --global user.name "0ov3rl0rd"
+   10  git push
+   11  git push
+   12  git status
+   13  history > historial.txt
